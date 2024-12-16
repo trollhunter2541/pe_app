@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "448673009854",
+    "firebase_url": "https://panier-inteligent-default-rtdb.firebaseio.com",
+    "project_id": "panier-inteligent",
+    "storage_bucket": "panier-inteligent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448673009854:android:70443e3f1f5bdc7a774eef",
+        "android_client_info": {
+          "package_name": "com.ensamien.pe_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7KTSZpw9QQeFWCjfrYV54SeEwJXSsfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
